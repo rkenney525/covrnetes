@@ -1,2 +1,2 @@
-# covrnetes
+# CoVRnetes
 A VR interface for Kubernetes

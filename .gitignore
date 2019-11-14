@@ -1,0 +1,13 @@
+/*.exe
+/*.pdb
+Thumbs.db
+/covrnetes.userprefs
+/*_Data
+/obj
+/bin
+/Library
+/Logs
+/Temp
+*.v12.suo
+*.vs
+/WebBuild
